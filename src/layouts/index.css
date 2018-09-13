@@ -6,7 +6,8 @@ html {
 body {
   margin: 0;
   font-family: 'Microsoft JhengHei';
-  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+  /* background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); */
+  background-color: #000;
 }
 
 

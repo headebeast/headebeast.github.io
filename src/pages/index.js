@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import NavBar from '../components/NavBar/DesktopNav'
+import 'tachyons'
 
 // import SideNavBar from '../components/SideNavBar'
 
@@ -8,7 +9,8 @@ class IndexPage extends Component {
   
   render() {
     return (
-      <div>
+      <div className="bg-black">
+         
         <nav>          
           <NavBar></NavBar>
         </nav>

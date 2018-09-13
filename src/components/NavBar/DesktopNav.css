@@ -1,0 +1,36 @@
+#sidenavbar {
+    width: 100%;
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+   
+}
+
+#Links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#nav1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+@keyframes slide {
+    100% {
+        left: 0;
+    }
+}
+
+@keyframes move {
+    100% {
+        width: 100%;
+    }
+}

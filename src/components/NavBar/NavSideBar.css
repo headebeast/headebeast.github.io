@@ -1,0 +1,53 @@
+#sidenavbar {
+    position: fixed;
+    width: 100%;
+    display: flex; 
+    cursor: pointer;
+}
+
+header {
+    position: relative;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    position: absolute;
+}
+
+
+
+#nav1, .nav1
+ {
+     z-index: 1;
+     animation-name: move;
+}
+
+
+#Invisibile {
+    display: block;
+    flex-direction: column;
+    visibility: hidden;
+    background-color: red;
+    color: white;    
+}
+
+
+
+
+
+@keyframes slide {
+    100% { 
+        left: 0; 
+    }
+}
+
+@keyframes move {
+    100% {
+        width: 100%;
+    }
+}
+
+
+
+

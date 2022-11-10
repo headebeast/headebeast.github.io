@@ -8,7 +8,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.3.1",
     "@fortawesome/react-fontawesome": "^0.1.3",
     "font-awesome": "^4.7.0",
-    "gatsby": "^1.9.277",
+    "gatsby": "^5.0.1",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "react-fontawesome": "^1.6.1",
